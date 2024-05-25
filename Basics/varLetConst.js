@@ -1,5 +1,5 @@
-//var - global / function level
-//let - global / block level
+//var - scoped at global / function level
+//let - scoped at global / block level
 
 let greet = "Morning";
 
